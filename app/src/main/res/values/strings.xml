@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LISA</string>
+
+    <string name="onboarding_title">Active LISA</string>
+    <string name="onboarding_subtitle">Deux autorisations sont nécessaires pour que la bulle puisse lire ce qui est affiché à l\'écran et te proposer un résumé.</string>
+    <string name="permission_overlay_title">Afficher par-dessus les autres apps</string>
+    <string name="permission_overlay_desc">Nécessaire pour afficher la bulle flottante, comme les bulles de conversation.</string>
+    <string name="permission_accessibility_title">Service d\'accessibilité</string>
+    <string name="permission_accessibility_desc">Nécessaire pour que LISA puisse lire le texte affiché à l\'écran (page, email, document) au moment où tu appuies sur la bulle.</string>
+    <string name="permission_grant">Autoriser</string>
+    <string name="permission_granted">Autorisé</string>
+
+    <string name="home_title">Accueil</string>
+    <string name="home_bubble_toggle">Bulle flottante</string>
+    <string name="home_bubble_toggle_desc">Active la bulle pour recevoir des propositions de résumé pendant que tu navigues.</string>
+    <string name="home_missing_permissions">Termine les autorisations pour activer la bulle.</string>
+
+    <string name="profile_title">Ton profil</string>
+    <string name="profile_goals_title">Tes objectifs</string>
+    <string name="profile_goals_desc">Ce que tu cherches à accomplir en ce moment (carrière, santé, finances…).</string>
+    <string name="profile_interests_title">Tes centres d\'intérêt</string>
+    <string name="profile_interests_desc">Les sujets qui comptent pour toi, utilisés pour juger la pertinence des résumés.</string>
+    <string name="profile_add">Ajouter</string>
+    <string name="profile_save">Enregistrer</string>
+    <string name="profile_saved">Profil enregistré</string>
+
+    <string name="bubble_prompt_question">Tu veux que je résume ça ?</string>
+    <string name="bubble_prompt_yes">Oui</string>
+    <string name="bubble_prompt_no">Non</string>
+
+    <string name="bubble_result_relevance_title">Pourquoi c\'est utile pour toi</string>
+    <string name="bubble_result_close">Fermer</string>
+
+    <string name="notification_channel_name">Bulle LISA active</string>
+    <string name="notification_title">LISA est active</string>
+    <string name="notification_text">Appuie sur la bulle pour résumer ce que tu lis</string>
+</resources>

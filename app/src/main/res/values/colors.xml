@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lisa_primary">#6750A4</color>
+    <color name="lisa_on_primary">#FFFFFF</color>
+    <color name="lisa_background">#FFFBFE</color>
+    <color name="lisa_surface">#FFFBFE</color>
+    <color name="lisa_bubble_background">#6750A4</color>
+</resources>
