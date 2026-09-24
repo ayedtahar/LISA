@@ -12,13 +12,18 @@ déclarés dans ton profil.
 > Ce sont des maquettes de l'interface (mêmes écrans, mêmes textes que le code Compose du
 > projet), pas des captures d'un build compilé — voir [Limitations actuelles](#limitations-actuelles).
 
-| Onboarding | Accueil | Profil |
-| :---: | :---: | :---: |
-| ![Onboarding](screenshots/onboarding.png) | ![Accueil](screenshots/home.png) | ![Profil](screenshots/profile.png) |
-
-| Bulle repliée | Proposition de résumé | Résumé affiché |
-| :---: | :---: | :---: |
-| ![Bulle repliée](screenshots/bubble-collapsed.png) | ![Proposition de résumé](screenshots/bubble-prompt.png) | ![Résumé affiché](screenshots/bubble-result.png) |
+<table>
+<tr>
+<td align="center"><img src="screenshots/onboarding.png" width="220" alt="Onboarding"><br>Onboarding</td>
+<td align="center"><img src="screenshots/home.png" width="220" alt="Accueil"><br>Accueil</td>
+<td align="center"><img src="screenshots/profile.png" width="220" alt="Profil"><br>Profil</td>
+</tr>
+<tr>
+<td align="center"><img src="screenshots/bubble-collapsed.png" width="220" alt="Bulle repliée"><br>Bulle repliée</td>
+<td align="center"><img src="screenshots/bubble-prompt.png" width="220" alt="Proposition de résumé"><br>Proposition de résumé</td>
+<td align="center"><img src="screenshots/bubble-result.png" width="220" alt="Résumé affiché"><br>Résumé affiché</td>
+</tr>
+</table>
 
 ## Fonctionnement
 
