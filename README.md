@@ -1,11 +1,24 @@
 # LISA
 
-*Lecture Intelligente & Synthèse Adaptée*
+*Lecture Intelligente & Synthèse Adaptée (LISA)*
 
 Application Android qui affiche une bulle flottante (façon "chat head") par-dessus les autres
 apps. Quand tu tapes dessus, elle lit ce qui est affiché à l'écran (page web, email, document),
 te propose de le résumer, et t'explique en quoi ça touche à tes objectifs et centres d'intérêt
 déclarés dans ton profil.
+
+## Captures d'écran
+
+> Ce sont des maquettes de l'interface (mêmes écrans, mêmes textes que le code Compose du
+> projet), pas des captures d'un build compilé — voir [Limitations actuelles](#limitations-actuelles).
+
+| Onboarding | Accueil | Profil |
+| :---: | :---: | :---: |
+| ![Onboarding](screenshots/onboarding.png) | ![Accueil](screenshots/home.png) | ![Profil](screenshots/profile.png) |
+
+| Bulle repliée | Proposition de résumé | Résumé affiché |
+| :---: | :---: | :---: |
+| ![Bulle repliée](screenshots/bubble-collapsed.png) | ![Proposition de résumé](screenshots/bubble-prompt.png) | ![Résumé affiché](screenshots/bubble-result.png) |
 
 ## Fonctionnement
 
