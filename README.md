@@ -1,5 +1,11 @@
 # LISA
 
+> **English summary.** LISA is an Android app that shows a floating bubble on top of other apps.
+> Tap it and it reads the text currently on screen (web page, email, document), offers to
+> summarise it, and explains how it relates to the goals and interests in your profile. Built
+> with Kotlin and Jetpack Compose. The summariser is currently a local stub, designed to be
+> replaced by a real LLM, and the screenshots below are mockups.
+
 *Lecture Intelligente & Synthèse Adaptée (LISA)*
 
 Application Android qui affiche une bulle flottante (façon "chat head") par-dessus les autres
